@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108938588425",
+    "project_id": "booklight-kt",
+    "storage_bucket": "booklight-kt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108938588425:android:21cc07d129376151bfa3d8",
+        "android_client_info": {
+          "package_name": "com.example.booklight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaVqPtbGJcXLacdOxQI424_CpdqLdmzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
