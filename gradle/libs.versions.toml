@@ -1,5 +1,5 @@
 [versions]
-agp = "8.3.2"
+agp = "8.5.0"
 kotlin = "1.9.0"
 coreKtx = "1.13.0"
 junit = "4.13.2"
@@ -14,7 +14,7 @@ firebaseAnalytics = "21.6.2"
 firebaseAuth = "22.3.1"
 firebaseDatabase = "20.3.1"
 firebaseCrashlytics = "18.6.4"
-gradle = "8.1.4"
+gradle = "8.5.0"
 firebaseCrashlyticsGradle = "2.9.9"
 firebaseStorage = "20.3.0"
 

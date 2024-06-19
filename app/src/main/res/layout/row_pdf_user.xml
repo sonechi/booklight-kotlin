@@ -37,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@style/TextAppearance.MaterialComponents.Headline6"
-            android:text="Book Title"
+            android:text="File Title"
             android:layout_toEndOf="@id/pdfRl"
             android:ellipsize="end"
             android:maxLines="1"/>
@@ -47,7 +47,7 @@
             style="@style/TextAppearance.MaterialComponents.Body2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Book Description"
+            android:text="File Description"
             android:layout_toEndOf="@id/pdfRl"
             android:layout_below="@id/titleTv"
             android:maxLines="4"

@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="8dp"
-            android:text="Read Book"
+            android:text="Read File"
             android:textColor="@color/white"
             android:textStyle="bold"/>
 
